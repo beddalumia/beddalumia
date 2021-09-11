@@ -1,6 +1,4 @@
 <kbd>![StatBadge](https://github-readme-stats.vercel.app/api?username=bellomia&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&count_private=true&icon_color=ff5e28&theme=graywhite)
-</kbd>
-<kbd>
 ![LangBadge](https://github-readme-stats.vercel.app/api/top-langs/?username=bellomia&langs_count=10&layout=compact&exclude_repo=PythTB&hide=html,makefile,gnuplot&theme=graywhite)
 </kbd>
 
