@@ -1,5 +1,7 @@
+### Linguist stats (personal repositories)
+
 <a>
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=bellomia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=javascript,css,html&theme=graywhite&hide_title=false"
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=bellomia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=javascript,css,html&theme=graywhite&hide_title=true"
 </a>
   
 ### Activity within the [QcmP-Lab](https://github.com/QcmPlab)
