@@ -31,7 +31,7 @@
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=MIproject" />
 </a>
 
-### Some other thing that I am very proud of
+### Some other things that I am very proud of...
 
 <a href="https://github.com/bellomia/colorlab">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=colorlab" />
