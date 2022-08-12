@@ -31,6 +31,13 @@
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=MIproject" />
 </a>
 
+### Some other thing that I am very proud of
+
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=colorlab" />
+</a> &nbsp &nbsp
+<a href="https://github.com/bellomia/MIproject">
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=genuary2021" />
+</a>
 
 
 
