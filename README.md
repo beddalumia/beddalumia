@@ -1,7 +1,7 @@
 ### Linguist stats (personal: no orgs, no forks)
 
 <a>
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=bellomia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=tex,javascript,css,html&theme=graywhite&hide_title=true"
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=beddalumia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=tex,javascript,css,html&theme=graywhite&hide_title=true"
 </a>
   
 ### Activity within the [QcmP-Lab](https://github.com/QcmPlab)
@@ -25,19 +25,19 @@
 ### PhD projects at [SISSA-CM](https://cm.sissa.it/people/members.php?ID=2505)
 
 <a href="https://github.com/bellomia/KMHproject">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=KMHproject" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=KMHproject" />
 </a> &nbsp &nbsp
 <a href="https://github.com/bellomia/MIproject">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=MIproject" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=MIproject" />
 </a>
 
 ### Some other things that I am very proud of...
 
 <a href="https://github.com/bellomia/colorlab">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=colorlab" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=colorlab" />
 </a> &nbsp &nbsp
 <a href="https://github.com/bellomia/matlab-multiple-dispatch">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=bellomia&repo=matlab-multiple-dispatch" />
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=matlab-multiple-dispatch" />
 </a>
 
 
