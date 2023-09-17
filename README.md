@@ -24,25 +24,25 @@
 
 ### PhD projects at [SISSA-CM](https://cm.sissa.it/people/members.php?ID=2505)
 
-<a href="https://github.com/bellomia/KMHproject">
+<a href="https://github.com/beddalumia/KMHproject">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=KMHproject" />
 </a> &nbsp &nbsp
-<a href="https://github.com/bellomia/MIproject">
+<a href="https://github.com/beddalumia/MIproject">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=MIproject" />
 </a>
 
 ### Some other things that I am very proud of...
 
-<a href="https://github.com/bellomia/colorlab">
+<a href="https://github.com/beddalumia/colorlab">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=colorlab" />
 </a> &nbsp &nbsp
-<a href="https://github.com/bellomia/matlab-multiple-dispatch">
+<a href="https://github.com/beddalumia/matlab-multiple-dispatch">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=matlab-multiple-dispatch" />
 </a> 
 
 ######
 
-<a href="https://github.com/bellomia/TriesteNext2023">
+<a href="https://github.com/beddalumia/TriesteNext2023">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=TriesteNext2023" />
 </a>
 
@@ -105,7 +105,7 @@
 
 <!--
 ### Hi there 👋
-**bellomia/bellomia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**beddalumia/bellomia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
