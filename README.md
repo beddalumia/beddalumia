@@ -1,17 +1,17 @@
-### Linguist stats (personal: no orgs, no forks)
+### Linguist stats
 
 <a>
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=beddalumia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=tex,javascript,css,html&theme=graywhite&hide_title=true"
 </a>
   
-### Activity within the [QcmP-Lab](https://github.com/QcmPlab)
+### Main activity within the [Quantum condensed matter Physics LAB @ SISSA](https://github.com/QcmPlab)
 
+<a href="https://github.com/beddalumia/QcmP-LAB">
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=QcmP-LAB" />
+</a> &nbsp &nbsp
 <a href="https://github.com/QcmPlab/CDMFT-LANC-ED">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=CDMFT-LANC-ED" />
-</a> &nbsp &nbsp
-<a href="https://github.com/QcmPlab/LIB_DMFT_ED">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=LIB_DMFT_ED" />
-</a>  
+</a> 
 
 ######
 
@@ -22,7 +22,7 @@
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=SciFortran" />
 </a>
 
-### PhD projects at [SISSA-CM](https://cm.sissa.it/people/members.php?ID=2505)
+### PhD projects at [CM @ SISSA](https://cm.sissa.it/people/gabriele-bellomia) [i.e. project reproducibility vaults]
 
 <a href="https://github.com/beddalumia/KMHproject">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=KMHproject" />
