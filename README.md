@@ -1,7 +1,7 @@
 ### Linguist stats
 
 <a>
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=beddalumia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=tex,javascript,css,html&theme=graywhite&hide_title=true"
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=beddalumia&langs_count=10&layout=compact&exclude_repo=readme-stats,PythTB,LearningWolfram_Adalta,ghost-lanc-ed,ghost_dmft_ed&hide=tex,javascript,css,html,rtf&theme=graywhite&hide_title=true"
 </a>
   
 ### Main activity within the [Quantum condensed matter Physics LAB @ SISSA](https://github.com/QcmPlab)
