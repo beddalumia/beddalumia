@@ -13,16 +13,7 @@
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=CDMFT-LANC-ED" />
 </a> 
 
-######
-
-<a href="https://github.com/QcmPlab/HoneyTools">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=QcmPlab&repo=HoneyTools" />
-</a> &nbsp &nbsp
-<a href="https://github.com/QcmPlab/SciFortran">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=SciFortran" />
-</a>
-
-### PhD projects at [CM @ SISSA](https://cm.sissa.it/people/gabriele-bellomia) [i.e. project reproducibility vaults]
+### Reproducibility vaults for the PhD projects at [SISSA.CM](https://cm.sissa.it/people/gabriele-bellomia)
 
 <a href="https://github.com/beddalumia/KMHproject">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=KMHproject" />
@@ -44,7 +35,11 @@
 
 <a href="https://github.com/beddalumia/TriesteNext2023">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=TriesteNext2023" />
-</a>
+</a> &nbsp &nbsp
+
+<a href="https://github.com/QcmPlab/HoneyTools">
+  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=QcmPlab&repo=HoneyTools" />
+</a> 
 
 
 
