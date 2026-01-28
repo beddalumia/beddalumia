@@ -7,7 +7,7 @@ Since my PhD years, my main activity has revolved around the **_quantum informat
 - topological and geometrical properties of matter
 - quantum simulation with ultracold atoms in optical lattices.
 
-In the following you can find links to my science web profiles, as well as some pinned repositories related to my activity here.
+Down here, you can find links to my science web profiles, as well as some pinned repositories related to my activity.
 
 -----
 <div align="left">
@@ -16,9 +16,9 @@ In the following you can find links to my science web profiles, as well as some 
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-teal)](https://www.researchgate.net/profile/Gabriele-Bellomia)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0003-1576-3388)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/gbellomia/)
-[![Bluesky Badge](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/gbellomia.bsky.social)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/condmatfl)
 [![Threads Badge](https://img.shields.io/badge/-Threads-black?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@beddalumia)
+[![Bluesky Badge](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/gbellomia.bsky.social)
 
 </div>
   
