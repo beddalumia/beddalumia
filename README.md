@@ -1,4 +1,4 @@
-![Hello there!](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRiYzB6eGlkczFvNjByOXVycmFnczM5aTlpOW96c3k1NjB4d2ltbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+![Hello there!](assets/hello_there_ben.gif)
 
 I am a postdoctoral researcher in the Computational Materials Science group at the Technische Universität Wien ([**@tuwien-cms**](https://github.com/tuwien-cms)).     
 Since my PhD years, my main activity has revolved around the **_quantum information theory of strongly correlated electrons_**, but I am also broadly interested in: 
