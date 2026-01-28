@@ -7,7 +7,7 @@ Since my PhD years, my main activity has revolved around the **_quantum informat
 - topological and geometrical properties of matter
 - quantum simulation with ultracold atoms in optical lattices.
 
-In the following you can find links to my science web profiles, as well as some pinned repositories related to my research.
+In the following you can find links to my science web profiles, as well as some pinned repositories related to my activity here.
 
 -----
 <div align="left">
