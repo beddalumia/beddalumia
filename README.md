@@ -31,7 +31,7 @@ Down here, you can find links to my science web profiles, as well as some pinned
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=qcmplab&repo=CDMFT-LANC-ED" />
 </a> 
 
-### Reproducibility vaults for my long-running projects at [SISSA](https://cm.sissa.it/people/gabriele-bellomia)
+### Reproducibility vaults for my long-running projects at [SISSA](https://iris.sissa.it/handle/20.500.11767/138250)
 
 <a href="https://github.com/beddalumia/KMHproject">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=beddalumia&repo=KMHproject" />
