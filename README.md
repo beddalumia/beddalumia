@@ -22,7 +22,7 @@ Down here, you can find links to my science web profiles, as well as some pinned
 
 </div>
   
-### Main activity as a PhD student in the [Quantum condensed matter Physics LAB @ SISSA](https://github.com/QcmPlab)
+### Main activity as a PhD student in the [Quantum Condensed Matter Physics LAB @ SISSA](https://github.com/QcmPlab)
 
 <a href="https://github.com/EDIpack/EDIpack">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/pin/?username=EDIpack&repo=EDIpack" />
