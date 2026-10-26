@@ -16,7 +16,6 @@ Down here, you can find links to my science web profiles, as well as some pinned
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-teal)](https://www.researchgate.net/profile/Gabriele-Bellomia)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0003-1576-3388)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/gbellomia/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/condmatfl)
 [![Threads Badge](https://img.shields.io/badge/-Threads-black?style=flat&logo=threads&logoColor=white)](https://www.threads.com/@beddalumia)
 [![Bluesky Badge](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/gbellomia.bsky.social)
 
